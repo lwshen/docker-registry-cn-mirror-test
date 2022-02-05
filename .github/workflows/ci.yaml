@@ -23,11 +23,15 @@ jobs:
           docker.io
           registry-1.docker.io
           registry.hub.docker.com
+          mirror.ccs.tencentyun.com
           mirror.baidubce.com
           hub-mirror.c.163.com
+          f1361db2.m.daocloud.io
           docker.mirrors.ustc.edu.cn
           mirror.gcr.io
           $ALIYUN_MIRROR
+          reg-mirror.qiniu.com
+          dockerhub.azk8s.cn
           "
           image="library/nginx:1.21.1-alpine"
 
