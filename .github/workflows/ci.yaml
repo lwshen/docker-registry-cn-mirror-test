@@ -33,6 +33,7 @@ jobs:
           $ALIYUN_MIRROR
           reg-mirror.qiniu.com
           dockerhub.azk8s.cn
+          docker.nju.edu.cn
           "
           image="library/nginx:1.24.0-alpine"
 
